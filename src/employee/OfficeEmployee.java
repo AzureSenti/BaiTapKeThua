@@ -1,3 +1,5 @@
+package employee;
+
 class OfficeEmployee extends  Employee {
     protected int workingDays;
     private static final double DAYLY_WAGE = 100.0;

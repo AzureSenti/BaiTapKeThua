@@ -1,3 +1,5 @@
+package employee;
+
 import interfaces.Saleperson;
 
 class SalesEmployee extends Employee implements Saleperson {
